@@ -1,3 +1,3 @@
-# Desarrollo web de SMASH
+# Sitio oficial de SMASH
 
-# Juan Acosta y Salvador Castro
+Desarrollado por Juan Acosta y Salvador Castro
